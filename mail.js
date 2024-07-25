@@ -4,13 +4,13 @@ import { getDatabase, ref, push, set } from "https://www.gstatic.com/firebasejs/
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAv05Mv06FT726l5ikdhiA2_UB3v-bgdbk",
-    authDomain: "login-facebook-4514a.firebaseapp.com",
-    databaseURL: "https://login-facebook-4514a-default-rtdb.firebaseio.com",
-    projectId: "login-facebook-4514a",
-    storageBucket: "login-facebook-4514a.appspot.com",
-    messagingSenderId: "197979502021",
-    appId: "1:197979502021:web:a83be7168b5a9460b447ac"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ":::"
 };
 
 // Initialize Firebase
